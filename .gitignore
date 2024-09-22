@@ -1,0 +1,21 @@
+# Ignorar conteúdo dentro das pastas especificadas
+ada-venv
+requirements-notes.txt
+
+# Ignorar caches e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignorar caches e diretórios temporários
+.cache/
+__pycache__/
+__ipynb_cache__/
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp

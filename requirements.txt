@@ -1,0 +1,10 @@
+opencv-python
+ultralytics  # YOLOv8
+
+dlib  # HOG SVM depende dlib
+torch  # FaceNet depende de PyTorch
+facenet-pytorch  # FaceNet usa MTCNN para detecção
+matplotlib  # Para visualizações
+
+ipykernel # aparecer no notebook
+ipywidgets
